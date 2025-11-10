@@ -1,7 +1,9 @@
 # INSY 6500 - Modern Tools for Data Analysis
+
 **Student**: Ruiying Zhu
 **Auburn ID**: ruz0001
 **Semester**: Fall 2025
+
 ## About This Repository
 This repository contains my coursework for INSY 6500 - Modern Tools for Data Analysis and
 Modeling at Auburn University. The course focuses on practical skills for data science,
